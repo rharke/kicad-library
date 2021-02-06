@@ -1,4 +1,4 @@
-(module DIP-32_W15.24mm_Headers (layer F.Cu) (tedit 601B4E9C)
+(module DIP-32_W15.24mm_Headers (layer F.Cu) (tedit 601E1286)
   (descr "32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket")
   (tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket")
   (fp_text reference REF** (at 7.62 -2.33) (layer F.SilkS)
@@ -72,7 +72,7 @@
     (rotate (xyz 0 0 0))
   )
   (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x16_P2.54mm_Vertical.wrl
-    (offset (xyz 15.62 0 0))
+    (offset (xyz 15.24 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
