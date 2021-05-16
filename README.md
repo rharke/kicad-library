@@ -6,7 +6,7 @@ I normally reference this library by either `pub` (older designs, will update as
 
 # Copyright
 
-Unless noted below, these are licensed under the MIT license, which is reproduced in the `LICENSE` file.
+Unless noted below, the symbols, footprints, and other design elements ("software") in this library are licensed under the MIT license, which is reproduced in the `LICENSE` file.
 
 ## Symbols
 
